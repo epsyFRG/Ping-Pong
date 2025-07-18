@@ -28,4 +28,6 @@ Enjoy! :D
 
 ---
 
-![Schermata di gioco](assets/images/screenshot.png)
+## 📺 Preview
+
+![Schermata di gioco](assets/images/preview.png)
