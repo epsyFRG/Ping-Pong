@@ -27,3 +27,5 @@ Il gioco è a tema Franky di One Piece.
 Enjoy! :D
 
 ---
+
+![Schermata di gioco](assets/images/screenshot.png)
